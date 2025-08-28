@@ -1,0 +1,1230 @@
+[
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "gmtime",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "strftime",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "gmtime",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "strftime",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "get_new_trade_date",
+        "importPath": "src.utils.helper",
+        "description": "src.utils.helper",
+        "isExtraImport": true,
+        "detail": "src.utils.helper",
+        "documentation": {}
+    },
+    {
+        "label": "tushare",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tushare",
+        "description": "tushare",
+        "detail": "tushare",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "LogHelper",
+        "importPath": "src.log_helper.log_helper",
+        "description": "src.log_helper.log_helper",
+        "isExtraImport": true,
+        "detail": "src.log_helper.log_helper",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "LogHelper",
+        "importPath": "src.utils.log_helper",
+        "description": "src.utils.log_helper",
+        "isExtraImport": true,
+        "detail": "src.utils.log_helper",
+        "documentation": {}
+    },
+    {
+        "label": "DataSaver",
+        "importPath": "src.data_storage.data_saver",
+        "description": "src.data_storage.data_saver",
+        "isExtraImport": true,
+        "detail": "src.data_storage.data_saver",
+        "documentation": {}
+    },
+    {
+        "label": "DataSaver",
+        "importPath": "src.data_storage.data_saver",
+        "description": "src.data_storage.data_saver",
+        "isExtraImport": true,
+        "detail": "src.data_storage.data_saver",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "add_exchange_suffix",
+        "importPath": "src.utils.helpers",
+        "description": "src.utils.helpers",
+        "isExtraImport": true,
+        "detail": "src.utils.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.distributed",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.distributed",
+        "description": "torch.distributed",
+        "detail": "torch.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "qlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "qlib",
+        "description": "qlib",
+        "detail": "qlib",
+        "documentation": {}
+    },
+    {
+        "label": "REG_CN",
+        "importPath": "qlib.config",
+        "description": "qlib.config",
+        "isExtraImport": true,
+        "detail": "qlib.config",
+        "documentation": {}
+    },
+    {
+        "label": "REG_CN",
+        "importPath": "qlib.config",
+        "description": "qlib.config",
+        "isExtraImport": true,
+        "detail": "qlib.config",
+        "documentation": {}
+    },
+    {
+        "label": "D",
+        "importPath": "qlib.data",
+        "description": "qlib.data",
+        "isExtraImport": true,
+        "detail": "qlib.data",
+        "documentation": {}
+    },
+    {
+        "label": "QlibDataLoader",
+        "importPath": "qlib.data.dataset.loader",
+        "description": "qlib.data.dataset.loader",
+        "isExtraImport": true,
+        "detail": "qlib.data.dataset.loader",
+        "documentation": {}
+    },
+    {
+        "label": "trange",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "trange",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "trange",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "backtest",
+        "importPath": "qlib.backtest",
+        "description": "qlib.backtest",
+        "isExtraImport": true,
+        "detail": "qlib.backtest",
+        "documentation": {}
+    },
+    {
+        "label": "executor",
+        "importPath": "qlib.backtest",
+        "description": "qlib.backtest",
+        "isExtraImport": true,
+        "detail": "qlib.backtest",
+        "documentation": {}
+    },
+    {
+        "label": "CommonInfrastructure",
+        "importPath": "qlib.backtest",
+        "description": "qlib.backtest",
+        "isExtraImport": true,
+        "detail": "qlib.backtest",
+        "documentation": {}
+    },
+    {
+        "label": "risk_analysis",
+        "importPath": "qlib.contrib.evaluate",
+        "description": "qlib.contrib.evaluate",
+        "isExtraImport": true,
+        "detail": "qlib.contrib.evaluate",
+        "documentation": {}
+    },
+    {
+        "label": "TopkDropoutStrategy",
+        "importPath": "qlib.contrib.strategy",
+        "description": "qlib.contrib.strategy",
+        "isExtraImport": true,
+        "detail": "qlib.contrib.strategy",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_dict",
+        "importPath": "qlib.utils",
+        "description": "qlib.utils",
+        "isExtraImport": true,
+        "detail": "qlib.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Freq",
+        "importPath": "qlib.utils.time",
+        "description": "qlib.utils.time",
+        "isExtraImport": true,
+        "detail": "qlib.utils.time",
+        "documentation": {}
+    },
+    {
+        "label": "Kronos",
+        "importPath": "model.kronos",
+        "description": "model.kronos",
+        "isExtraImport": true,
+        "detail": "model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "KronosTokenizer",
+        "importPath": "model.kronos",
+        "description": "model.kronos",
+        "isExtraImport": true,
+        "detail": "model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "auto_regressive_inference",
+        "importPath": "model.kronos",
+        "description": "model.kronos",
+        "isExtraImport": true,
+        "detail": "model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "KronosTokenizer",
+        "importPath": "model.kronos",
+        "description": "model.kronos",
+        "isExtraImport": true,
+        "detail": "model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "Kronos",
+        "importPath": "model.kronos",
+        "description": "model.kronos",
+        "isExtraImport": true,
+        "detail": "model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "KronosTokenizer",
+        "importPath": "model.kronos",
+        "description": "model.kronos",
+        "isExtraImport": true,
+        "detail": "model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedSampler",
+        "importPath": "torch.utils.data.distributed",
+        "description": "torch.utils.data.distributed",
+        "isExtraImport": true,
+        "detail": "torch.utils.data.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedSampler",
+        "importPath": "torch.utils.data.distributed",
+        "description": "torch.utils.data.distributed",
+        "isExtraImport": true,
+        "detail": "torch.utils.data.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "comet_ml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "comet_ml",
+        "description": "comet_ml",
+        "detail": "comet_ml",
+        "documentation": {}
+    },
+    {
+        "label": "QlibDataset",
+        "importPath": "dataset",
+        "description": "dataset",
+        "isExtraImport": true,
+        "detail": "dataset",
+        "documentation": {}
+    },
+    {
+        "label": "QlibDataset",
+        "importPath": "dataset",
+        "description": "dataset",
+        "isExtraImport": true,
+        "detail": "dataset",
+        "documentation": {}
+    },
+    {
+        "label": "setup_ddp",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_ddp",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_size",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_time",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "setup_ddp",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_ddp",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_size",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_time",
+        "importPath": "utils.training_utils",
+        "description": "utils.training_utils",
+        "isExtraImport": true,
+        "detail": "utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "PyTorchModelHubMixin",
+        "importPath": "huggingface_hub",
+        "description": "huggingface_hub",
+        "isExtraImport": true,
+        "detail": "huggingface_hub",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "reduce",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "Function",
+        "importPath": "torch.autograd",
+        "description": "torch.autograd",
+        "isExtraImport": true,
+        "detail": "torch.autograd",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "Kronos",
+        "importPath": "src.model",
+        "description": "src.model",
+        "isExtraImport": true,
+        "detail": "src.model",
+        "documentation": {}
+    },
+    {
+        "label": "KronosTokenizer",
+        "importPath": "src.model",
+        "description": "src.model",
+        "isExtraImport": true,
+        "detail": "src.model",
+        "documentation": {}
+    },
+    {
+        "label": "KronosPredictor",
+        "importPath": "src.model",
+        "description": "src.model",
+        "isExtraImport": true,
+        "detail": "src.model",
+        "documentation": {}
+    },
+    {
+        "label": "TushareDataFetcher",
+        "kind": 6,
+        "importPath": "src.data_acquisition.tushare_data_fetcher",
+        "description": "src.data_acquisition.tushare_data_fetcher",
+        "peekOfCode": "class TushareDataFetcher():\n    def __init__(self):\n        super().__init__()\n        self.logger = LogHelper.get_logger(__name__)\n    def login(self, token='c477c6691a86fa6f410f520f8f2e59f195ba9cb93b76384047de3d8d'):\n        # Tushare通过token认证，此处无需额外登录\n        ts.set_token(token)\n        self.pro = ts.pro_api()\n    def get_all_stock_codes(self, save: bool = True) -> pd.DataFrame:\n        \"\"\"获取所有股票代码列表\"\"\"",
+        "detail": "src.data_acquisition.tushare_data_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "DataSaver",
+        "kind": 6,
+        "importPath": "src.data_storage.data_saver",
+        "description": "src.data_storage.data_saver",
+        "peekOfCode": "class DataSaver:\n    def __init__(self, file_path: str, file_name: str):\n        self.file_path = file_path\n        self.file_name = file_name\n        self.logger = LogHelper().get_logger(__name__)\n        self.init_saver()\n    @abstractmethod\n    def init_saver(self):\n        pass\n    @abstractmethod",
+        "detail": "src.data_storage.data_saver",
+        "documentation": {}
+    },
+    {
+        "label": "SqliteSaver",
+        "kind": 6,
+        "importPath": "src.data_storage.data_sqlite_saver",
+        "description": "src.data_storage.data_sqlite_saver",
+        "peekOfCode": "class SqliteSaver(DataSaver):\n    def __init__(self, file_path='./data', file_name='stock_data.db'):\n        super().__init__(file_path, file_name)\n    def init_saver(self):\n        self.save_path = self.file_path + os.sep + self.file_name\n        self.logger.info(f'init saver, file path: {self.save_path}')\n        self.conn = sqlite3.connect(self.save_path)\n        self.cursor = self.conn.cursor()\n        self.create_tables()\n    def create_tables(self):",
+        "detail": "src.data_storage.data_sqlite_saver",
+        "documentation": {}
+    },
+    {
+        "label": "setup_ddp",
+        "kind": 2,
+        "importPath": "src.finetune.utils.training_utils",
+        "description": "src.finetune.utils.training_utils",
+        "peekOfCode": "def setup_ddp():\n    \"\"\"\n    Initializes the distributed data parallel environment.\n    This function relies on environment variables set by `torchrun` or a similar\n    launcher. It initializes the process group and sets the CUDA device for the\n    current process.\n    Returns:\n        tuple: A tuple containing (rank, world_size, local_rank).\n    \"\"\"\n    if not dist.is_available():",
+        "detail": "src.finetune.utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_ddp",
+        "kind": 2,
+        "importPath": "src.finetune.utils.training_utils",
+        "description": "src.finetune.utils.training_utils",
+        "peekOfCode": "def cleanup_ddp():\n    \"\"\"Cleans up the distributed process group.\"\"\"\n    if dist.is_initialized():\n        dist.destroy_process_group()\ndef set_seed(seed: int, rank: int = 0):\n    \"\"\"\n    Sets the random seed for reproducibility across all relevant libraries.\n    Args:\n        seed (int): The base seed value.\n        rank (int): The process rank, used to ensure different processes have",
+        "detail": "src.finetune.utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "kind": 2,
+        "importPath": "src.finetune.utils.training_utils",
+        "description": "src.finetune.utils.training_utils",
+        "peekOfCode": "def set_seed(seed: int, rank: int = 0):\n    \"\"\"\n    Sets the random seed for reproducibility across all relevant libraries.\n    Args:\n        seed (int): The base seed value.\n        rank (int): The process rank, used to ensure different processes have\n                    different seeds, which can be important for data loading.\n    \"\"\"\n    actual_seed = seed + rank\n    random.seed(actual_seed)",
+        "detail": "src.finetune.utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_size",
+        "kind": 2,
+        "importPath": "src.finetune.utils.training_utils",
+        "description": "src.finetune.utils.training_utils",
+        "peekOfCode": "def get_model_size(model: torch.nn.Module) -> str:\n    \"\"\"\n    Calculates the number of trainable parameters in a PyTorch model and returns\n    it as a human-readable string.\n    Args:\n        model (torch.nn.Module): The PyTorch model.\n    Returns:\n        str: A string representing the model size (e.g., \"175.0B\", \"7.1M\", \"50.5K\").\n    \"\"\"\n    total_params = sum(p.numel() for p in model.parameters() if p.requires_grad)",
+        "detail": "src.finetune.utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "reduce_tensor",
+        "kind": 2,
+        "importPath": "src.finetune.utils.training_utils",
+        "description": "src.finetune.utils.training_utils",
+        "peekOfCode": "def reduce_tensor(tensor: torch.Tensor, world_size: int, op=dist.ReduceOp.SUM) -> torch.Tensor:\n    \"\"\"\n    Reduces a tensor's value across all processes in a distributed setup.\n    Args:\n        tensor (torch.Tensor): The tensor to be reduced.\n        world_size (int): The total number of processes.\n        op (dist.ReduceOp, optional): The reduction operation (SUM, AVG, etc.).\n                                      Defaults to dist.ReduceOp.SUM.\n    Returns:\n        torch.Tensor: The reduced tensor, which will be identical on all processes.",
+        "detail": "src.finetune.utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_time",
+        "kind": 2,
+        "importPath": "src.finetune.utils.training_utils",
+        "description": "src.finetune.utils.training_utils",
+        "peekOfCode": "def format_time(seconds: float) -> str:\n    \"\"\"\n    Formats a duration in seconds into a human-readable H:M:S string.\n    Args:\n        seconds (float): The total seconds.\n    Returns:\n        str: The formatted time string (e.g., \"0:15:32\").\n    \"\"\"\n    return str(datetime.timedelta(seconds=int(seconds)))",
+        "detail": "src.finetune.utils.training_utils",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "src.finetune.config",
+        "description": "src.finetune.config",
+        "peekOfCode": "class Config:\n    \"\"\"\n    Configuration class for the entire project.\n    \"\"\"\n    def __init__(self):\n        # =================================================================\n        # Data & Feature Parameters\n        # =================================================================\n        # TODO: Update this path to your Qlib data directory.\n        self.qlib_data_path = \"~/.qlib/qlib_data/cn_data\"",
+        "detail": "src.finetune.config",
+        "documentation": {}
+    },
+    {
+        "label": "QlibDataset",
+        "kind": 6,
+        "importPath": "src.finetune.dataset",
+        "description": "src.finetune.dataset",
+        "peekOfCode": "class QlibDataset(Dataset):\n    \"\"\"\n    A PyTorch Dataset for handling Qlib financial time series data.\n    This dataset pre-computes all possible start indices for sliding windows\n    and then randomly samples from them during training/validation.\n    Args:\n        data_type (str): The type of dataset to load, either 'train' or 'val'.\n    Raises:\n        ValueError: If `data_type` is not 'train' or 'val'.\n    \"\"\"",
+        "detail": "src.finetune.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "QlibDataPreprocessor",
+        "kind": 6,
+        "importPath": "src.finetune.qlib_data_preprocess",
+        "description": "src.finetune.qlib_data_preprocess",
+        "peekOfCode": "class QlibDataPreprocessor:\n    \"\"\"\n    A class to handle the loading, processing, and splitting of Qlib financial data.\n    \"\"\"\n    def __init__(self):\n        \"\"\"Initializes the preprocessor with configuration and data fields.\"\"\"\n        self.config = Config()\n        self.data_fields = ['open', 'close', 'high', 'low', 'volume', 'vwap']\n        self.data = {}  # A dictionary to store processed data for each symbol.\n    def initialize_qlib(self):",
+        "detail": "src.finetune.qlib_data_preprocess",
+        "documentation": {}
+    },
+    {
+        "label": "QlibTestDataset",
+        "kind": 6,
+        "importPath": "src.finetune.qlib_test",
+        "description": "src.finetune.qlib_test",
+        "peekOfCode": "class QlibTestDataset(Dataset):\n    \"\"\"\n    PyTorch Dataset for handling Qlib test data, specifically for inference.\n    This dataset iterates through all possible sliding windows sequentially. It also\n    yields metadata like symbol and timestamp, which are crucial for mapping\n    predictions back to the original time series.\n    \"\"\"\n    def __init__(self, data: dict, config: Config):\n        self.data = data\n        self.config = config",
+        "detail": "src.finetune.qlib_test",
+        "documentation": {}
+    },
+    {
+        "label": "QlibBacktest",
+        "kind": 6,
+        "importPath": "src.finetune.qlib_test",
+        "description": "src.finetune.qlib_test",
+        "peekOfCode": "class QlibBacktest:\n    \"\"\"\n    A wrapper class for conducting backtesting experiments using Qlib.\n    \"\"\"\n    def __init__(self, config: Config):\n        self.config = config\n        self.initialize_qlib()\n    def initialize_qlib(self):\n        \"\"\"Initializes the Qlib environment.\"\"\"\n        print(\"Initializing Qlib for backtesting...\")",
+        "detail": "src.finetune.qlib_test",
+        "documentation": {}
+    },
+    {
+        "label": "load_models",
+        "kind": 2,
+        "importPath": "src.finetune.qlib_test",
+        "description": "src.finetune.qlib_test",
+        "peekOfCode": "def load_models(config: dict) -> tuple[KronosTokenizer, Kronos]:\n    \"\"\"Loads the fine-tuned tokenizer and predictor model.\"\"\"\n    device = torch.device(config['device'])\n    print(f\"Loading models onto device: {device}...\")\n    tokenizer = KronosTokenizer.from_pretrained(config['tokenizer_path']).to(device).eval()\n    model = Kronos.from_pretrained(config['model_path']).to(device).eval()\n    return tokenizer, model\ndef collate_fn_for_inference(batch):\n    \"\"\"\n    Custom collate function to handle batches containing Tensors, strings, and Timestamps.",
+        "detail": "src.finetune.qlib_test",
+        "documentation": {}
+    },
+    {
+        "label": "collate_fn_for_inference",
+        "kind": 2,
+        "importPath": "src.finetune.qlib_test",
+        "description": "src.finetune.qlib_test",
+        "peekOfCode": "def collate_fn_for_inference(batch):\n    \"\"\"\n    Custom collate function to handle batches containing Tensors, strings, and Timestamps.\n    Args:\n        batch (list): A list of samples, where each sample is the tuple returned by\n                      QlibTestDataset.__getitem__.\n    Returns:\n        A single tuple containing the batched data.\n    \"\"\"\n    # Unzip the list of samples into separate lists for each data type",
+        "detail": "src.finetune.qlib_test",
+        "documentation": {}
+    },
+    {
+        "label": "generate_predictions",
+        "kind": 2,
+        "importPath": "src.finetune.qlib_test",
+        "description": "src.finetune.qlib_test",
+        "peekOfCode": "def generate_predictions(config: dict, test_data: dict) -> dict[str, pd.DataFrame]:\n    \"\"\"\n    Runs inference on the test dataset to generate prediction signals.\n    Args:\n        config (dict): A dictionary containing inference parameters.\n        test_data (dict): The raw test data loaded from a pickle file.\n    Returns:\n        A dictionary where keys are signal types (e.g., 'mean', 'last') and\n        values are DataFrames of predictions (datetime index, symbol columns).\n    \"\"\"",
+        "detail": "src.finetune.qlib_test",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.finetune.qlib_test",
+        "description": "src.finetune.qlib_test",
+        "peekOfCode": "def main():\n    \"\"\"Main function to set up config, run inference, and execute backtesting.\"\"\"\n    parser = argparse.ArgumentParser(description=\"Run Kronos Inference and Backtesting\")\n    parser.add_argument(\"--device\", type=str, default=\"cuda:1\", help=\"Device for inference (e.g., 'cuda:0', 'cpu')\")\n    args = parser.parse_args()\n    # --- 1. Configuration Setup ---\n    base_config = Config()\n    # Create a dedicated dictionary for this run's configuration\n    run_config = {\n        'device': args.device,",
+        "detail": "src.finetune.qlib_test",
+        "documentation": {}
+    },
+    {
+        "label": "create_dataloaders",
+        "kind": 2,
+        "importPath": "src.finetune.train_predictor",
+        "description": "src.finetune.train_predictor",
+        "peekOfCode": "def create_dataloaders(config: dict, rank: int, world_size: int):\n    \"\"\"\n    Creates and returns distributed dataloaders for training and validation.\n    Args:\n        config (dict): A dictionary of configuration parameters.\n        rank (int): The global rank of the current process.\n        world_size (int): The total number of processes.\n    Returns:\n        tuple: (train_loader, val_loader, train_dataset, valid_dataset).\n    \"\"\"",
+        "detail": "src.finetune.train_predictor",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "kind": 2,
+        "importPath": "src.finetune.train_predictor",
+        "description": "src.finetune.train_predictor",
+        "peekOfCode": "def train_model(model, tokenizer, device, config, save_dir, logger, rank, world_size):\n    \"\"\"\n    The main training and validation loop for the predictor.\n    \"\"\"\n    start_time = time.time()\n    if rank == 0:\n        effective_bs = config['batch_size'] * world_size\n        print(f\"Effective BATCHSIZE per GPU: {config['batch_size']}, Total: {effective_bs}\")\n    train_loader, val_loader, train_dataset, valid_dataset = create_dataloaders(config, rank, world_size)\n    optimizer = torch.optim.AdamW(",
+        "detail": "src.finetune.train_predictor",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.finetune.train_predictor",
+        "description": "src.finetune.train_predictor",
+        "peekOfCode": "def main(config: dict):\n    \"\"\"Main function to orchestrate the DDP training process.\"\"\"\n    rank, world_size, local_rank = setup_ddp()\n    device = torch.device(f\"cuda:{local_rank}\")\n    set_seed(config['seed'], rank)\n    save_dir = os.path.join(config['save_path'], config['predictor_save_folder_name'])\n    # Logger and summary setup (master process only)\n    comet_logger, master_summary = None, {}\n    if rank == 0:\n        os.makedirs(os.path.join(save_dir, 'checkpoints'), exist_ok=True)",
+        "detail": "src.finetune.train_predictor",
+        "documentation": {}
+    },
+    {
+        "label": "create_dataloaders",
+        "kind": 2,
+        "importPath": "src.finetune.train_tokenizer",
+        "description": "src.finetune.train_tokenizer",
+        "peekOfCode": "def create_dataloaders(config: dict, rank: int, world_size: int):\n    \"\"\"\n    Creates and returns distributed dataloaders for training and validation.\n    Args:\n        config (dict): A dictionary of configuration parameters.\n        rank (int): The global rank of the current process.\n        world_size (int): The total number of processes.\n    Returns:\n        tuple: A tuple containing (train_loader, val_loader, train_dataset, valid_dataset).\n    \"\"\"",
+        "detail": "src.finetune.train_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "kind": 2,
+        "importPath": "src.finetune.train_tokenizer",
+        "description": "src.finetune.train_tokenizer",
+        "peekOfCode": "def train_model(model, device, config, save_dir, logger, rank, world_size):\n    \"\"\"\n    The main training and validation loop for the tokenizer.\n    Args:\n        model (DDP): The DDP-wrapped model to train.\n        device (torch.device): The device for the current process.\n        config (dict): Configuration dictionary.\n        save_dir (str): Directory to save checkpoints.\n        logger (comet_ml.Experiment): Comet logger instance.\n        rank (int): Global rank of the process.",
+        "detail": "src.finetune.train_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.finetune.train_tokenizer",
+        "description": "src.finetune.train_tokenizer",
+        "peekOfCode": "def main(config: dict):\n    \"\"\"\n    Main function to orchestrate the DDP training process.\n    \"\"\"\n    rank, world_size, local_rank = setup_ddp()\n    device = torch.device(f\"cuda:{local_rank}\")\n    set_seed(config['seed'], rank)\n    save_dir = os.path.join(config['save_path'], config['tokenizer_save_folder_name'])\n    # Logger and summary setup (master process only)\n    comet_logger, master_summary = None, {}",
+        "detail": "src.finetune.train_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "LogHelper",
+        "kind": 6,
+        "importPath": "src.log_helper.log_helper",
+        "description": "src.log_helper.log_helper",
+        "peekOfCode": "class LogHelper:\n    def __init__(self, log_config_path='./src/config/log_config.yaml', default_log_level=logging.INFO):\n        self.log_config_path = log_config_path\n        self.default_log_level = default_log_level\n        self.init_log()\n    def init_log(self):\n        if os.path.exists(self.log_config_path):\n            with open(self.log_config_path, 'rt') as f:\n                yaml_config = yaml.safe_load(f)\n            config.dictConfig(yaml_config)",
+        "detail": "src.log_helper.log_helper",
+        "documentation": {}
+    },
+    {
+        "label": "KronosTokenizer",
+        "kind": 6,
+        "importPath": "src.model.kronos",
+        "description": "src.model.kronos",
+        "peekOfCode": "class KronosTokenizer(nn.Module, PyTorchModelHubMixin):\n    \"\"\"\n    KronosTokenizer module for tokenizing input data using a hybrid quantization approach.\n    This tokenizer utilizes a combination of encoder and decoder Transformer blocks\n    along with the Binary Spherical Quantization (BSQuantizer) to compress and decompress input data.\n    Args:\n           d_in (int): Input dimension.\n           d_model (int): Model dimension.\n           n_heads (int): Number of attention heads.\n           ff_dim (int): Feed-forward dimension.",
+        "detail": "src.model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "Kronos",
+        "kind": 6,
+        "importPath": "src.model.kronos",
+        "description": "src.model.kronos",
+        "peekOfCode": "class Kronos(nn.Module, PyTorchModelHubMixin):\n    \"\"\"\n    Kronos Model.\n    Args:\n        s1_bits (int): Number of bits for pre tokens.\n        s2_bits (int): Number of bits for post tokens.\n        n_layers (int): Number of Transformer blocks.\n        d_model (int): Dimension of the model's embeddings and hidden states.\n        n_heads (int): Number of attention heads in the MultiheadAttention layers.\n        ff_dim (int): Dimension of the feedforward network in the Transformer blocks.",
+        "detail": "src.model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "KronosPredictor",
+        "kind": 6,
+        "importPath": "src.model.kronos",
+        "description": "src.model.kronos",
+        "peekOfCode": "class KronosPredictor:\n    def __init__(self, model, tokenizer, device=\"cuda:0\", max_context=512, clip=5):\n        self.tokenizer = tokenizer\n        self.model = model\n        self.max_context = max_context\n        self.clip = clip\n        self.price_cols = ['open', 'high', 'low', 'close']\n        self.vol_col = 'volume'\n        self.amt_vol = 'amount'\n        self.time_cols = ['minute', 'hour', 'weekday', 'day', 'month']",
+        "detail": "src.model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "top_k_top_p_filtering",
+        "kind": 2,
+        "importPath": "src.model.kronos",
+        "description": "src.model.kronos",
+        "peekOfCode": "def top_k_top_p_filtering(\n        logits,\n        top_k: int = 0,\n        top_p: float = 1.0,\n        filter_value: float = -float(\"Inf\"),\n        min_tokens_to_keep: int = 1,\n):\n    \"\"\"Filter a distribution of logits using top-k and/or nucleus (top-p) filtering\n    Args:\n        logits: logits distribution shape (batch size, vocabulary size)",
+        "detail": "src.model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "sample_from_logits",
+        "kind": 2,
+        "importPath": "src.model.kronos",
+        "description": "src.model.kronos",
+        "peekOfCode": "def sample_from_logits(logits, temperature=1.0, top_k=None, top_p=None, sample_logits=True):\n    logits = logits / temperature\n    if top_k is not None or top_p is not None:\n        if top_k > 0 or top_p < 1.0:\n            logits = top_k_top_p_filtering(logits, top_k=top_k, top_p=top_p)\n    probs = F.softmax(logits, dim=-1)\n    if not sample_logits:\n        _, x = top_k(probs, k=1, dim=-1)\n    else:\n        x = torch.multinomial(probs, num_samples=1)",
+        "detail": "src.model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "auto_regressive_inference",
+        "kind": 2,
+        "importPath": "src.model.kronos",
+        "description": "src.model.kronos",
+        "peekOfCode": "def auto_regressive_inference(tokenizer, model, x, x_stamp, y_stamp, max_context, pred_len, clip=5, T=1.0, top_k=0, top_p=0.99, sample_count=5, verbose=False):\n    with torch.no_grad():\n        batch_size = x.size(0)\n        initial_seq_len = x.size(1)\n        x = torch.clip(x, -clip, clip)\n        device = x.device\n        x = x.unsqueeze(1).repeat(1, sample_count, 1, 1).reshape(-1, x.size(1), x.size(2)).to(device)\n        x_stamp = x_stamp.unsqueeze(1).repeat(1, sample_count, 1, 1).reshape(-1, x_stamp.size(1), x_stamp.size(2)).to(device)\n        y_stamp = y_stamp.unsqueeze(1).repeat(1, sample_count, 1, 1).reshape(-1, y_stamp.size(1), y_stamp.size(2)).to(device)\n        x_token = tokenizer.encode(x, half=True)",
+        "detail": "src.model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "calc_time_stamps",
+        "kind": 2,
+        "importPath": "src.model.kronos",
+        "description": "src.model.kronos",
+        "peekOfCode": "def calc_time_stamps(x_timestamp):\n    time_df = pd.DataFrame()\n    time_df['minute'] = x_timestamp.dt.minute\n    time_df['hour'] = x_timestamp.dt.hour\n    time_df['weekday'] = x_timestamp.dt.weekday\n    time_df['day'] = x_timestamp.dt.day\n    time_df['month'] = x_timestamp.dt.month\n    return time_df\nclass KronosPredictor:\n    def __init__(self, model, tokenizer, device=\"cuda:0\", max_context=512, clip=5):",
+        "detail": "src.model.kronos",
+        "documentation": {}
+    },
+    {
+        "label": "DifferentiableEntropyFunction",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class DifferentiableEntropyFunction(Function):\n    @staticmethod\n    def forward(ctx, zq, basis, K, eps):\n        zb = (zq + 1) / 2\n        zi = ((zb * basis).sum(-1)).to(torch.int64)\n        cnt = torch.scatter_reduce(torch.zeros(2 ** K, device=zq.device, dtype=zq.dtype),\n                                   0,\n                                   zi.flatten(),\n                                   torch.ones_like(zi.flatten()).to(zq.dtype),\n                                   'sum')",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "BinarySphericalQuantizer",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class BinarySphericalQuantizer(nn.Module):\n    def __init__(self, embed_dim, beta, gamma0, gamma, zeta,\n                 input_format='bchw',\n                 soft_entropy=True, group_size=9,\n                 persample_entropy_compute='analytical',\n                 cb_entropy_compute='group',\n                 l2_norm=True,\n                 inv_temperature=1):\n        \"\"\"\n        Paper link: https://arxiv.org/pdf/2406.07548.pdf",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "BSQuantizer",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class BSQuantizer(nn.Module):\n    def __init__(self, s1_bits, s2_bits, beta, gamma0, gamma, zeta, group_size):\n        super().__init__()\n        self.codebook_dim = s1_bits + s2_bits\n        self.s1_bits = s1_bits\n        self.s2_bits = s2_bits\n        self.bsq = BinarySphericalQuantizer(self.codebook_dim, beta, gamma0, gamma, zeta, group_size=group_size)\n    def bits_to_indices(self, bits):\n        bits = (bits >= 0).to(torch.long)\n        indices = 2 ** torch.arange(",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "RMSNorm",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class RMSNorm(torch.nn.Module):\n    def __init__(self, dim: int, eps: float = 1e-5):\n        super().__init__()\n        self.eps = eps\n        self.weight = nn.Parameter(torch.ones(dim))\n    def _norm(self, x):\n        return x * torch.rsqrt(torch.mean(x * x, dim=-1, keepdim=True) + self.eps)\n    def forward(self, x):\n        output = self._norm(x.float()).type_as(x)\n        return output * self.weight",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "FeedForward",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class FeedForward(nn.Module):\n    def __init__(self, d_model, ff_dim, ffn_dropout_p=0.0):\n        super().__init__()\n        self.w1 = nn.Linear(d_model, ff_dim, bias=False)\n        self.w3 = nn.Linear(d_model, ff_dim, bias=False)\n        self.w2 = nn.Linear(ff_dim, d_model, bias=False)\n        self.ffn_dropout = nn.Dropout(ffn_dropout_p)\n    def forward(self, x):\n        return self.ffn_dropout(self.w2(F.silu(self.w1(x)) * self.w3(x)))\nclass RotaryPositionalEmbedding(nn.Module):",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "RotaryPositionalEmbedding",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class RotaryPositionalEmbedding(nn.Module):\n    def __init__(self, dim):\n        super().__init__()\n        inv_freq = 1.0 / (10000 ** (torch.arange(0, dim, 2).float() / dim))\n        self.register_buffer(\"inv_freq\", inv_freq)\n        self.seq_len_cached = None\n        self.cos_cached = None\n        self.sin_cached = None\n    def _update_cos_sin_cache(self, x, seq_len):\n        if seq_len != self.seq_len_cached:",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "MultiHeadAttentionWithRoPE",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class MultiHeadAttentionWithRoPE(nn.Module):\n    def __init__(self, d_model, n_heads, attn_dropout_p=0.0, resid_dropout_p=0.0):\n        super().__init__()\n        self.d_model = d_model\n        self.n_heads = n_heads\n        self.head_dim = d_model // n_heads\n        self.q_proj = nn.Linear(d_model, d_model)\n        self.k_proj = nn.Linear(d_model, d_model)\n        self.v_proj = nn.Linear(d_model, d_model)\n        self.out_proj = nn.Linear(d_model, d_model)",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "MultiHeadCrossAttentionWithRoPE",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class MultiHeadCrossAttentionWithRoPE(nn.Module):\n    def __init__(self, d_model, n_heads, attn_dropout_p=0.0, resid_dropout=0.0):\n        super().__init__()\n        self.d_model = d_model\n        self.n_heads = n_heads\n        self.head_dim = d_model // n_heads\n        self.q_proj = nn.Linear(d_model, d_model)\n        self.k_proj = nn.Linear(d_model, d_model)\n        self.v_proj = nn.Linear(d_model, d_model)\n        self.out_proj = nn.Linear(d_model, d_model)",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "HierarchicalEmbedding",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class HierarchicalEmbedding(nn.Module):\n    def __init__(self, s1_bits, s2_bits, d_model=256):\n        super().__init__()\n        self.s1_bits = s1_bits\n        self.s2_bits = s2_bits\n        vocab_s1 = 2 ** s1_bits\n        vocab_s2 = 2 ** s2_bits\n        self.emb_s1 = nn.Embedding(vocab_s1, d_model)\n        self.emb_s2 = nn.Embedding(vocab_s2, d_model)\n        self.d_model = d_model",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "DependencyAwareLayer",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class DependencyAwareLayer(nn.Module):\n    def __init__(self, d_model, n_heads=4, attn_dropout_p=0.0, resid_dropout=0.0):\n        super().__init__()\n        self.cross_attn = MultiHeadCrossAttentionWithRoPE(d_model, n_heads, attn_dropout_p, resid_dropout)\n        self.norm = RMSNorm(d_model)\n    def forward(self, hidden_states, sibling_embed, key_padding_mask=None):\n        \"\"\"hidden_states: [batch, seq_len, d_model]\n        sibling_embed: Embedding from another subtoken\n        \"\"\"\n        attn_out = self.cross_attn(",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "TransformerBlock",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class TransformerBlock(nn.Module):\n    def __init__(self, d_model, n_heads, ff_dim=1024, ffn_dropout_p=0.0, attn_dropout_p=0.0, resid_dropout_p=0.0):\n        super().__init__()\n        self.norm1 = RMSNorm(d_model)\n        self.self_attn = MultiHeadAttentionWithRoPE(d_model, n_heads, attn_dropout_p, resid_dropout_p)\n        self.norm2 = RMSNorm(d_model)\n        self.ffn = FeedForward(d_model, ff_dim, ffn_dropout_p)\n    def forward(self, x, key_padding_mask=None):\n        residual = x\n        x = self.norm1(x)",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "DualHead",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class DualHead(nn.Module):\n    def __init__(self, s1_bits, s2_bits, d_model):\n        super().__init__()\n        self.vocab_s1 = 2 ** s1_bits\n        self.vocab_s2 = 2 ** s2_bits\n        self.proj_s1 = nn.Linear(d_model, self.vocab_s1)\n        self.proj_s2 = nn.Linear(d_model, self.vocab_s2)\n    def compute_loss(self, s1_logits, s2_logits, s1_targets, s2_targets, padding_mask=None):\n        if padding_mask is not None:\n            valid_mask = (padding_mask == 0)",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "FixedEmbedding",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class FixedEmbedding(nn.Module):\n    def __init__(self, c_in, d_model):\n        super(FixedEmbedding, self).__init__()\n        w = torch.zeros(c_in, d_model).float()\n        w.require_grad = False\n        position = torch.arange(0, c_in).float().unsqueeze(1)\n        div_term = (torch.arange(0, d_model, 2).float() * -(math.log(10000.0) / d_model)).exp()\n        w[:, 0::2] = torch.sin(position * div_term)\n        w[:, 1::2] = torch.cos(position * div_term)\n        self.emb = nn.Embedding(c_in, d_model)",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "TemporalEmbedding",
+        "kind": 6,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "class TemporalEmbedding(nn.Module):\n    def __init__(self, d_model, learn_pe):\n        super(TemporalEmbedding, self).__init__()\n        minute_size = 60\n        hour_size = 24\n        weekday_size = 7\n        day_size = 32\n        month_size = 13\n        Embed = FixedEmbedding if not learn_pe else nn.Embedding\n        self.minute_embed = Embed(minute_size, d_model)",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "codebook_entropy",
+        "kind": 2,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "def codebook_entropy(zq, basis, K, eps=1e-4):\n    return DifferentiableEntropyFunction.apply(zq, basis, K, eps)\nclass BinarySphericalQuantizer(nn.Module):\n    def __init__(self, embed_dim, beta, gamma0, gamma, zeta,\n                 input_format='bchw',\n                 soft_entropy=True, group_size=9,\n                 persample_entropy_compute='analytical',\n                 cb_entropy_compute='group',\n                 l2_norm=True,\n                 inv_temperature=1):",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_dot_product_attention",
+        "kind": 2,
+        "importPath": "src.model.module",
+        "description": "src.model.module",
+        "peekOfCode": "def scaled_dot_product_attention(query, key, value, attn_mask=None, dropout_p=0.0, is_causal=False, scale=None) -> torch.Tensor:\n    L, S = query.size(-2), key.size(-2)\n    scale_factor = 1 / math.sqrt(query.size(-1)) if scale is None else scale\n    attn_bias = torch.zeros(L, S, dtype=query.dtype).to(query.device)\n    if is_causal:\n        assert attn_mask is None\n        temp_mask = torch.ones(L, S, dtype=torch.bool).tril(diagonal=0).to(query.device)\n        attn_bias.masked_fill_(temp_mask.logical_not(), float(\"-inf\"))\n        attn_bias.to(query.dtype)\n    attn_weight = query @ key.transpose(-2, -1) * scale_factor",
+        "detail": "src.model.module",
+        "documentation": {}
+    },
+    {
+        "label": "get_ts_code",
+        "kind": 2,
+        "importPath": "src.utils.helper",
+        "description": "src.utils.helper",
+        "peekOfCode": "def get_ts_code(stock_code: str) -> str:\n    stock_code_arr = stock_code.split('.')\n    if len(stock_code_arr) != 2:\n        return ''\n    if stock_code_arr[0] == 'SZ' or stock_code_arr[0] == 'SH' or stock_code_arr[0] == 'BJ':\n        stock_code = stock_code_arr[1]\n    else:\n        stock_code = stock_code_arr[0]\n    return stock_code\ndef get_new_trade_date(data_saver: DataSaver, table_name: str, ts_code: str, start_date: str) -> str:",
+        "detail": "src.utils.helper",
+        "documentation": {}
+    },
+    {
+        "label": "get_new_trade_date",
+        "kind": 2,
+        "importPath": "src.utils.helper",
+        "description": "src.utils.helper",
+        "peekOfCode": "def get_new_trade_date(data_saver: DataSaver, table_name: str, ts_code: str, start_date: str) -> str:\n    # 先从数据表里面查询最新的时间，然后从最新的时间开始获取数据\n    latest_trade_date: str = data_saver.read_latest_trade_date(\n        table_name, ts_code)\n    if len(latest_trade_date) > 0:\n        start_date = latest_trade_date\n        trade_date = pd.to_datetime(start_date) + pd.DateOffset(days=1)\n        trade_date = trade_date.strftime('%Y%m%d')\n        return trade_date\n    else:",
+        "detail": "src.utils.helper",
+        "documentation": {}
+    },
+    {
+        "label": "add_exchange_suffix",
+        "kind": 2,
+        "importPath": "src.utils.helper",
+        "description": "src.utils.helper",
+        "peekOfCode": "def add_exchange_suffix(code: str) -> str:\n    \"\"\"\n    根据股票代码添加交易所后缀（sh, sz, bj）\n    参数:\n        code (str): 股票代码，去除空格或后缀\n    返回:\n        str: 带交易所后缀的代码，如 \"600000.sh\"\n    \"\"\"\n    code = str(code).strip()\n    # 北交所规则：83, 87, 43 开头",
+        "detail": "src.utils.helper",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_trade_date",
+        "kind": 2,
+        "importPath": "src.utils.helper",
+        "description": "src.utils.helper",
+        "peekOfCode": "def get_latest_trade_date() -> str:\n    day = datetime.datetime.today().strftime('%Y%m%d')\n    time_of_day = datetime.datetime.now().strftime(\"%H:%M:%S\")\n    if time_of_day < '17:00:00':\n        day = datetime.datetime.today() - datetime.timedelta(days=1)\n        day = day.strftime('%Y%m%d')\n    return day",
+        "detail": "src.utils.helper",
+        "documentation": {}
+    },
+    {
+        "label": "plot_prediction",
+        "kind": 2,
+        "importPath": "pipeline",
+        "description": "pipeline",
+        "peekOfCode": "def plot_prediction(kline_df, pred_df):\n    pred_df.index = kline_df.index[-pred_df.shape[0]:]\n    sr_close = kline_df['close']\n    sr_pred_close = pred_df['close']\n    sr_close.name = 'Ground Truth'\n    sr_pred_close.name = \"Prediction\"\n    sr_volume = kline_df['volume']\n    sr_pred_volume = pred_df['volume']\n    sr_volume.name = 'Ground Truth'\n    sr_pred_volume.name = \"Prediction\"",
+        "detail": "pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pipeline",
+        "description": "pipeline",
+        "peekOfCode": "def main():\n    online = False\n    if online:\n        # Load from Hugging Face Hub\n        tokenizer = KronosTokenizer.from_pretrained(\n            \"NeoQuasar/Kronos-Tokenizer-base\")\n        model = Kronos.from_pretrained(\"NeoQuasar/Kronos-small\")\n    else:\n        # Load from local\n        tokenizer = KronosTokenizer.from_pretrained(",
+        "detail": "pipeline",
+        "documentation": {}
+    }
+]
